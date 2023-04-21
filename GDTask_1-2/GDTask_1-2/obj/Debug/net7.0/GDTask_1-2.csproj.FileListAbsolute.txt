@@ -1,0 +1,15 @@
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\bin\Debug\net7.0\GDTask_1-2.exe
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\bin\Debug\net7.0\GDTask_1-2.deps.json
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\bin\Debug\net7.0\GDTask_1-2.runtimeconfig.json
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\bin\Debug\net7.0\GDTask_1-2.dll
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\bin\Debug\net7.0\GDTask_1-2.pdb
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.csproj.AssemblyReference.cache
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.AssemblyInfoInputs.cache
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.AssemblyInfo.cs
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.csproj.CoreCompileInputs.cache
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.dll
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\refint\GDTask_1-2.dll
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.pdb
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\GDTask_1-2.genruntimeconfig.cache
+C:\programs\GitHub_Repositories\GDTask-3\GDTask_1-2\GDTask_1-2\obj\Debug\net7.0\ref\GDTask_1-2.dll
